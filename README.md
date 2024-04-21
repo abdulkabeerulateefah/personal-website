@@ -8,7 +8,7 @@ From your command line, clone and run command bellow:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/indramahkota/personal-website.git
+$ git clone https://github.com/indramahkota/personal-website.gitfd
 
 # Go into the repository
 $ cd personal-website
